@@ -34,7 +34,7 @@
 
   <!-- NÍVEL 1: FERRAMENTAS -->
   <details style="margin-left: 20px;">
-    <summary>[03] Ferramentas (Exploration & Recon)</summary>
+    <summary>[3] Ferramentas (Exploration & Recon)</summary>
     <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
       <li><code>>_</code> <a href="https://github.com/dabblew/LPE-Portable">LPE Portable</a></li>
       <li><code>>_</code> <a href="https://github.com/dabblew/Wifite-Automation">Wifite Suite</a></li>
@@ -44,7 +44,7 @@
 
   <!-- NÍVEL 1: EXPLOITS -->
   <details style="margin-left: 20px;">
-    <summary>📂 04. Exploits & PoCs</summary>
+    <summary>[4] Exploits & PoCs</summary>
     <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
       <li><code>>_</code> <i>[ VAGO: Aguardando novos payloads... ]</i></li>
       <li><code>>_</code> <i>[ VAGO: Aguardando novas CVEs... ]</i></li>
@@ -53,7 +53,7 @@
 
   <!-- NÍVEL 1: CONTATO -->
   <details style="margin-left: 20px;">
-    <summary>📂 05. Contato</summary>
+    <summary>[5] Contato</summary>
     <p style="margin-left: 20px;">
       <sub>→ <a href="#-06-terminal-de-conexão-cta">Ir para Diretório /Uplink_Terminal</a></sub>
     </p>
