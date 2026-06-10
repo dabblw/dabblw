@@ -10,7 +10,7 @@
 <samp>
 
 <details>
-  <summary style="margin-left: 20px;"><b>[ MENU ]</b></summary>
+  <summary><b>[ MENU ]</b></summary>
   <br>
   
   <!-- NÍVEL 1: SOBRE MIM -->
