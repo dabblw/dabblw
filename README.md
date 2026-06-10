@@ -5,8 +5,9 @@
 <br>
 
 ---
-<table>
+<table><tr>
 <!-- MENU -->
+<td>
 <div align="left">
 <samp>
 
@@ -63,9 +64,9 @@
 </details>
 
 </samp>
-</div>
+</div></td>
 <!--- --->
-</table>
+</tr></table>
 
 
 ---
