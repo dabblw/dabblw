@@ -1,3 +1,15 @@
+<samp>
+ <p style="font-size: 10px;
+            background: #FF8C00;
+            padding: 3px 5px;
+            text-align: right;
+            text-color: #000000"><b>
+            [—][x]</b>
+ </p>
+ 
+ 
+</samp>
+
 # [ Security Development Lab ]
 
 ## <p align="center">[]</p>
