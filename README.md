@@ -57,7 +57,7 @@
   <details style="margin-left: 20px;">
     <summary>[5] Contato</summary>
     <p style="margin-left: 20px;">
-      <sub>→ <a href="#-06-terminal-de-conexão-cta">Ir para Diretório /Uplink_Terminal</a></sub>
+      <sub>→ <a href="#-05-terminal-de-conexão-cta">Ir para Diretório /Uplink_Terminal</a></sub>
     </p>
   </details>
 
@@ -68,8 +68,6 @@
 <!--- --->
 </tr></table>
 
-
----
 
 ---
 
