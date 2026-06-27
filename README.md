@@ -1,8 +1,3 @@
-<div align="center">
-
-<!-- SECTION 01: HERO BANNER (BORDAS SIMULADAS POR ARQUIVO DE IMAGEM ESTÁTICA COM DITHERING) -->
-<img src="https://raw.githubusercontent.com/dabblew/dabblew/main/1000068799_2.webp" width="400" alt="Dab Cybersec Mascot">
-<br>
 
 ---
 <table><tr>
