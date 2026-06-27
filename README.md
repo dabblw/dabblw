@@ -70,7 +70,7 @@
 <table width="100%" border="1" cellspacing="0" cellpadding="10">
   <tr>
     <td width="25%" align="center" valign="middle">
-      <img src="[https://raw.githubusercontent.com/dabblew/dabblew/main/1000068851.png](https://drive.google.com/file/d/1jx5526Cup34CZbdhougl8KXRXkFo3U2_/view?usp=drive_link)" width="120" alt="Dab Mini">
+      <img src="https://lh3.google.com/u/0/d/1hISKwK5iAbEyfUSEfc4WLxW5ZjeugYpz=w961-h960-iv1?auditContext=prefetch" width="120" alt="Dab Mini">
     </td>
     <td width="75%" valign="top">
       <samp>
