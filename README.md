@@ -56,7 +56,7 @@
 </tr></table>
 
 ---
-## 📡 02. CORE STATS & OPERATIONAL ARSENAL
+## 📡 CORE STATS & ABOUT ME
 
 <table width="100%" border="1" cellspacing="0" cellpadding="10">
   <tr>
